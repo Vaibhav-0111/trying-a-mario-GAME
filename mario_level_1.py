@@ -11,7 +11,7 @@ import pygame as pg
 from data.main import main
 import cProfile
 
-
+#codx
 if __name__=='__main__':
     main()
     pg.quit()
