@@ -1,4 +1,4 @@
-Super Mario Bros Level 1
+Super Mario Bros Level 1 (LPU STUDENT)
 =============
 
 An attempt to recreate the first level of Super Mario Bros.
@@ -24,10 +24,4 @@ To install dependencies for Python 2.x:
 
 	pip install -r requirements.txt
 
-VIDEO DEMO:
 
-http://www.youtube.com/watch?v=HBbzYKMfx5Y
-   
-DISCLAIMER:
-
-This project is intended for non-commercial educational purposes.
